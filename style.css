@@ -1,0 +1,32 @@
+body {
+    height: 0px;
+    background-color: #cce8b5;
+}
+.details {
+    background-color: #c3e55b;
+    margin: auto;
+    width: 900px;
+    height: 100px;
+}
+.self {
+    background-color: lightblue;
+    width: 870px;
+    height: 100px;
+    position: relative;
+    bottom: 104px;
+    left: 150px;
+    border-radius: 20px;
+}
+.bot {
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    width: 870px;
+    height: 100px;
+    position: absolute;
+    right: 20px;
+    margin-top: 60px;
+}
+img {
+    width: 100px;
+}
